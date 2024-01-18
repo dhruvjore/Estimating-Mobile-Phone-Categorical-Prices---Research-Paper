@@ -1,4 +1,4 @@
-The price of mobile phones significantly impacts their market success and sustainability. It is crucial to estimate the
+ABSTRACT: The price of mobile phones significantly impacts their market success and sustainability. It is crucial to estimate the
 price of a mobile phone before its release to ensure optimal marketing and competitiveness with other products in the market.
 This prediction requires the collection of data on existing mobile phones and the application of different algorithms to reduce
 complexity and identify the most critical selection features for comparison within the data. Using machine learning techniques
