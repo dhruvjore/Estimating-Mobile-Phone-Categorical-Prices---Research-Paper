@@ -1,3 +1,5 @@
+# Estimating Mobile Phone Categorical Prices Using Machine Learning: A Study on Feature Selection and Algorithmic Approaches
+
 ABSTRACT: The price of mobile phones significantly impacts their market success and sustainability. It is crucial to estimate the
 price of a mobile phone before its release to ensure optimal marketing and competitiveness with other products in the market.
 This prediction requires the collection of data on existing mobile phones and the application of different algorithms to reduce
